@@ -1,0 +1,45 @@
+Project Data Hoarder Warrant Canary
+===================================
+
+Once per month, the admin of Project Data Hoarder (hereinafter simply referred to as 'Aaron') will publish a 'warrant canary' in the form of a cryptographically signed message which contains:
+
+- A declaration that, up to that point, no warrants have been served, nor have any searches or seizures of his assets taken place.
+- An archive.fo link to an online newspaper article that was published and the hash of a Bitcoin block that was mined on that day to demonstrate that the update could not have been created prior to that date.
+
+Special note should be taken if this warrant canary ever ceases being updated or is removed from this page.
+
+A video showing the creation of Project Data Hoarder's first canary can be watched here: https://www.youtube.com/watch?v=2pTY-AD_15o
+
+The current message can be found below.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+As of 2020-11-04, no warrants have ever been served to Aaron. No searches or seizures of any kind have ever been performed on Aaron's assets. Aaron has no direct or indirect knowledge of any backdoors, or potential backdoors in his server or network and he has not received any requests to implement a backdoor. Aaron has never disclosed any user communications to any third party.
+
+Newspaper article: https://archive.fo/Fa2kG
+Bitcoin block hash: https://live.blockcypher.com/btc/block/0000000000000000000544564f5642228c3a05d5355856e047079017dc10479d/
+
+Website: https://datahoarder.dev/
+GitHub: https://github.com/whalehub
+
+- -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEXtGDwhYJKwYBBAHaRw8BAQdA8peXtTTsiE2Xpd9Y89DuiGuQwSxmq8tH+eaM
+fpGcHu20HUFhcm9uIDxhZG1pbkBkYXRhaG9hcmRlci5kZXY+iJAEExYIADgWIQTh
+gMqjX/71ccdm+9874ykN4+VX6wUCXtGDwgIbIwULCQgHAgYVCgkICwIEFgIDAQIe
+AQIXgAAKCRA74ykN4+VX6xPIAQD9KPpJx0dmgrF3Jd/sVivCiONhmJJW+nNta1Ms
+sQrnvgD/QUj9X0Zp7DI8kJVZ/NmaJ+RuDt9T+nO0qVlSPwXPmwa4OARe0YPCEgor
+BgEEAZdVAQUBAQdAZuAKZvCSKNlIXuF+5bKy5MuqGWtVDbk1eSAIjUYzJnwDAQgH
+iHgEGBYIACAWIQThgMqjX/71ccdm+9874ykN4+VX6wUCXtGDwgIbDAAKCRA74ykN
+4+VX66r3AQDC+ZKwbGFUXfbh5kycX71TbGGkJ5B7snO35NB/Dg9UDwD9EJgOdNYf
++8ONWsbWsc3SygQ24QbIVMH39xK9uFMYugk=
+=susR
+- -----END PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQThgMqjX/71ccdm+9874ykN4+VX6wUCX6KY4QAKCRA74ykN4+VX
+62v9AQDkrsvBMtERbLuIYZbT6yBsZbWpVeiRhiGq1vsRQ55aMQEAx8LTbobpU9J3
+ZroBINJxt2VsC+2gRJkzLb2KbxpzeAs=
+=L6Ia
+-----END PGP SIGNATURE-----
